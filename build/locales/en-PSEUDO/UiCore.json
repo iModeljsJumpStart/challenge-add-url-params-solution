@@ -1,0 +1,21 @@
+{
+  "form": {
+    "submitButtonLabel": "$ùbmît",
+    "errorPrefix": "Èrrór:",
+    "errorSuffix": "Plèásê rëvìéw îñpût ãñd trÿ àgáîñ."
+  },
+  "general": {
+    "search": "$éârçh"
+  },
+  "dialog": {
+    "ok": "ÒK",
+    "retry": "Rètrÿ",
+    "yes": "Ýés",
+    "no": "Ñó",
+    "cancel": "Çáñçèl",
+    "close": "Çlósê"
+  },
+  "reactselect": {
+    "noSelectOption": "Òptíôñ ñøt fòúñd"
+  }
+}

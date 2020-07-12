@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e096e11b.chunk.css",
+    "main.js": "/static/js/main.75eae9fe.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.42f51055.js",
+    "static/css/2.0d5933b4.chunk.css": "/static/css/2.0d5933b4.chunk.css",
+    "static/js/2.9d585913.chunk.js": "/static/js/2.9d585913.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.30f5aedaf4214c1a6e0af76a52f0116c.js": "/precache-manifest.30f5aedaf4214c1a6e0af76a52f0116c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.9d585913.chunk.js.LICENSE.txt": "/static/js/2.9d585913.chunk.js.LICENSE.txt",
+    "static/media/bentley-icons-generic-webfont.css": "/static/media/bentley-icons-generic-webfont.df4a0ffe.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42f51055.js",
+    "static/css/2.0d5933b4.chunk.css",
+    "static/js/2.9d585913.chunk.js",
+    "static/css/main.e096e11b.chunk.css",
+    "static/js/main.75eae9fe.chunk.js"
+  ]
+}

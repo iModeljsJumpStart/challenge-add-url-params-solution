@@ -1,0 +1,138 @@
+{
+  "general": {
+    "true": "trµé",
+    "false": "fàlsé",
+    "loading": "lòádîñg",
+    "noData": "Thè dátâ rëqüírêd fór thìs tréê låýóüt ïs ñøt àváìlãblê ïñ thís îMõdèl.",
+    "length": "£éñgth",
+    "label": "£ábêl"
+  },
+  "button": {
+    "label": {
+      "search": "$éârçh",
+      "cancel": "Çáñçèl"
+    }
+  },
+  "breadcrumb": {
+    "invalidBreadcrumbPath": "Pàth ñôt fõüñd.",
+    "errorUnknownMode": "Èrrór: Ûñkñøwñ ßrèãd¢rùmb mòdé.",
+    "name": "Ñámê",
+    "icon": "Ìçôñ",
+    "description": "Ðés¢rïptìøñ"
+  },
+  "tree": {
+    "noResultsForFilter": "0 màtçhês fõüñd fòr \"{{searchText}}\""
+  },
+  "table": {
+    "filter": {
+      "numericTooltip": "Ìñpút Mëthöds: Råñgë (×-ÿ), Grêåtèr Théñ (>×), £éss Thêñ (<ý)",
+      "numericPlaceholder": "è.g. 3,10-15,>20"
+    }
+  },
+  "showhide": {
+    "noLabel": "[µñlâbëlèd]",
+    "showAll": "$hów âll",
+    "list": "£íst...",
+    "title": "$hów/Hîdë"
+  },
+  "property": {
+    "varies": "*** Vàríês ***",
+    "arrayLength": "Ñùmbêr õf Ìtéms"
+  },
+  "signIn": {
+    "prompt": "Plèásê sïgñ íñ tó âç¢ëss ýóür ßèñtlêÿ sèrví¢ës.",
+    "signInButton": "$ígñ Ïñ",
+    "profilePrompt": "Ðóñ't hãvè å pròfïlè?",
+    "register": "Règístêr",
+    "offlineButton": "Wòrk Ófflîñè?"
+  },
+  "timeline": {
+    "expand": "È×pâñd",
+    "minimize": "Mìñîmïzè",
+    "repeat": "Rèpéât",
+    "slow": "$péêd: slõw",
+    "medium": "$péêd: mëdìµm",
+    "fast": "$péêd: fãst"
+  },
+  "month": {
+    "long": {
+      "january": "Jàñúãrý",
+      "february": "Fèbrùârÿ",
+      "march": "Màrçh",
+      "april": "Àpríl",
+      "may": "Màÿ",
+      "june": "Jµñê",
+      "july": "Jµlÿ",
+      "august": "Àùgúst",
+      "september": "$éptêmbër",
+      "october": "Òçtôbër",
+      "november": "Ñóvêmbër",
+      "december": "Ðé¢ëmbèr"
+    },
+    "short": {
+      "january": "Jàñ",
+      "february": "Fèb",
+      "march": "Màr",
+      "april": "Àpr",
+      "may": "Màÿ",
+      "june": "Jµñ",
+      "july": "Jµl",
+      "august": "Àùg",
+      "september": "$ép",
+      "october": "Òçt",
+      "november": "Ñóv",
+      "december": "Ðé¢"
+    }
+  },
+  "days": {
+    "long": {
+      "sunday": "$ùñdãý",
+      "monday": "Mòñdâÿ",
+      "tuesday": "Tµésdâÿ",
+      "wednesday": "Wèdñêsdãý",
+      "thursday": "Thµrsdáý",
+      "friday": "Frìdáý",
+      "saturday": "$átúrdãý"
+    },
+    "short": {
+      "sunday": "$ùñ",
+      "monday": "Mòñ",
+      "tuesday": "Tµé",
+      "wednesday": "Wèd",
+      "thursday": "Thµ",
+      "friday": "Frì",
+      "saturday": "$át"
+    }
+  },
+  "time": {
+    "am": "àm",
+    "pm": "pm"
+  },
+  "solartimeline": {
+    "play": "Plàÿ",
+    "settings": "$éttîñgs",
+    "speed": "$péêd",
+    "dateTime": "$ét Ðãtè/Tímê"
+  },
+  "solarsettings": {
+    "shadowcolor": "$hádôw (ölør"
+  },
+  "errors": {
+    "unable-to-parse-quantity": "Ùñâblë tö pårsê strïñg íñtø qúáñtïtý"
+  },
+  "filteringInput": {
+    "placeholder": "$éârçh..."
+  },
+  "cube": {
+    "front": "Fròñt",
+    "back": "ßá¢k",
+    "top": "Tòp",
+    "bottom": "ßóttôm",
+    "left": "£éft",
+    "right": "Rìght"
+  },
+  "drawing": {
+    "unrotate": "Ùñ-Rôtãtè",
+    "rotateStyle": "Tògglé bâçkgröµñd-rótâté"
+  }
+}

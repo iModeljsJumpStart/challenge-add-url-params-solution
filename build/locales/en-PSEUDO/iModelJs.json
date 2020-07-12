@@ -1,0 +1,72 @@
+{
+  "ViewUndo": {
+    "NoPreviousViewOps": "Ñó prêvïöµs vîëwìñg öpëràtíôñs",
+    "NoPreviousUndos": "Òñlý vãlìd åftêr 'Vïèw Prévîøús'"
+  },
+  "Viewing": {
+    "InvalidWindow": "Ìñvâlïd wìñdòw",
+    "MinWindow": "Mìñîmûm wìñdòw",
+    "MaxWindow": "Mà×îmûm wìñdòw",
+    "MaxZoom": "Mà×îmûm Zöøm",
+    "InvalidTargetPoint": "Tòó ¢lõsè tø tàrgët",
+    "NotDuringMarkup": "Çáññöt çhàñgè víêw dùrìñg mârkµp"
+  },
+  "ElementUndo": {
+    "NothingToUndo": "Ñó âçtìøñs tó ûñdö",
+    "NothingToRedo": "Ñóthîñg häs béêñ ûñdöñè",
+    "UndoAll": "Ðó ýõü réàllÿ wâñt tö ùñdó âll çhäñgês?"
+  },
+  "LocateFailure": {
+    "NoElements": "Ñó Êlëmèñts Fòúñd",
+    "ByApp": "Èlémêñt ñøt vàlïd fôr tõöl",
+    "Transient": "Ðé¢õrätíòñ ìs ñöt vålìd fór thîs tõöl",
+    "NotSnappable": "Ñót sñãppäblé wîth çûrréñt sñàp módê(s)",
+    "NotLocatable": "Èlémêñt ìs ñòt ló¢ãtäblë",
+    "ExternalIModel": "ìMódêl ïs ñøt lòçâtãblê",
+    "RealityModelSnapMode": "Rèálîtÿ mödéls rêstrï¢téd tö ñèárêst sñäp",
+    "NotSnappableSubCategory": "$ùbÇãtègørý hás sñãppîñg túrñêd õff",
+    "NotLocatableSubCategory": "$ùbÇãtègørý hás lôçätë túrñêd õff"
+  },
+  "Element": {
+    "Id": "Ìd",
+    "Model": "Mòdél",
+    "Category": "Çátêgõrý",
+    "Type": "Çláss"
+  },
+  "BackgroundMap": {
+    "MapBoxCopyright": "© Màpbó×, © Õpèñ$trëètMãp ¢øñtríbütõrs",
+    "CesiumWorldTerrainAttribution": "Çésîûm Wörld Térràïñ: Ðätå àváîlãblè frøm thê Ü.$. Géöløgìçâl §ûrvéý, © (GÌÁR-Ç§Ì, Pródûçèd ùsîñg Çõpêrñìçµs dãtä åñd ïñfõrmätïòñ fúñdèd bÿ thê Ëûrõpêåñ Úñïöñ - ÊÜ-ÐÉM läÿèrs, Ðâtã ävåîláblè frõm £åñd Íñfõrmätíòñ Ñéw Zêålàñd, Ðãtä åvàïlâblé fröm dåtà.góv.úk, Ðätå ¢óûrtésý Gëòsçîëñçê Âµstrãlîå"
+  },
+  "ExtensionErrors": {
+    "Success": "È×têñsìøñ {{- extensionName}} lóâdéd",
+    "CantLoad": "Çáññöt løàd Ë×téñsïòñ {{- extensionName}}",
+    "CantFind": "Çáññöt fíñd Ë×téñsïòñ '{{- extensionName}}'",
+    "SignatureNoMatch": "È×têñsìøñ '{{- extensionName}}' çôñtäïñs á dîgïtäl sígñátµré thät døès ñôt mãt¢h íts ¢óñtéñts",
+    "NoManifest": "È×têñsìøñ dóès ñöt çòñtâïñ réqûïrèd mãñïfèst fílê",
+    "ManifestMember": "È×têñsìøñ Máñífêst ïs mìssíñg thë '{{propertyName}}' rèqúîrëd prôpértý",
+    "FrontendOnly": "È×têñsìøñs çâñ bê løàdéd îñ ä brøwsêr ór Èlé¢trøñ óñlÿ",
+    "NoVersionsLoaded": "ìMódêl.js vërsìøñs lóâdéd ñøt fòûñd",
+    "ModuleNotLoaded": "Rèqùîrëd mödµlê {{moduleName}} ïs ñõt löådèd",
+    "PackagedIncorrectly": "Thè É×tëñsíòñ hâs ñöt bëèñ pâçkägéd ¢órrèçtlý",
+    "NoVersionSpecified": "Ñó vêrsïöñ spêçìfíêd før mòdûlê {{moduleName}}",
+    "VersionMismatch": "Vèrsíôñ {{versionLoaded}} öf {{moduleName}} ís ñót ¢õmpätïblè wíth {{versionRequired}}",
+    "UnableToLoad": "Ùñâblë tö løàd Ë×téñsïòñ {{- extensionName}}"
+  },
+  "Errors": {
+    "ReloadPage": "😞 Òóps, sômëthìñg wêñt wrôñg - plêåsè rélôãd thè pågê.",
+    "WebGLContextLost": "Thè WébG£ rëñdérîñg ¢õñtë×t wás lôst. (lösíñg óthèr brõwsêr tåbs bèfórê rëlöådîñg thè pãgê måý hélp.",
+    "Details": "Ìñ ¢ãsè ÿòú'rè íñtërèstéd îñ thè détàïls:"
+  },
+  "Properties": {
+    "Angle": "Àñglê",
+    "Length": "£éñgth",
+    "UnableToParseAngle": "Ùñâblë tö pårsê áñglé välùè",
+    "UnableToParseLength": "Ùñâblë tö pårsê lëñgth vãlµë"
+  },
+  "Notices": {
+    "PoweredBy": "Pòwérêd bÿ"
+  },
+  "RealityModelTypes": {
+    "OrbitGTPointCloud": "ÒrbítGT Pôïñt (lòúd"
+  }
+}
